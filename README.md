@@ -1,9 +1,7 @@
 # 💫 About Me:
- - 🎓 Recém-formado no curso **Jovem Programador** do Senac.  
- - 🔧 Experiência prática com **React**, **Node.js (Express)**, **JWT**, **bcrypt** e **Python**.
- -  📚 Sempre aprendendo algo novo, atualmente me aprofundando em **banco de dados** e **desenvolvimento back-end**.
- - 🎯 Busco oportunidades para aplicar meus conhecimentos em projetos reais, aprender com profissionais da área e contribuir para o desenvolvimento de soluções inovadoras.
+ Oi, sou o Allan! Estou sempre explorando novas ideias e desafios no desenvolvimento de software. Recentemente, finalizei o curso Jovem Programador no Senac, onde aprendi a desenvolver aplicações com ferramentas como React, Node.js e JWT, além de aprofundar meu interesse pelo back-end. Também aprendi Python de forma independente, resolvendo problemas e criando pequenos projetos para aprimorar minhas habilidades.
 
+No meu tempo livre, curto assistir NBA, brincar de basquete e ouvir rock. Aqui no meu GitHub, você encontra projetos que representam meu aprendizado e evolução como desenvolvedor. Adoro colaborar, então fique à vontade para explorar e me chamar para conversar ou trocar ideias!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-m-0734162a9/)
